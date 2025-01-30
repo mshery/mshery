@@ -38,5 +38,5 @@ A Passionate Mobile / Web APP & AI from Pakistan
 
 ## 📢 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://www.linkedin.com/in/shahroz-ijaz-b33669137/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://your-portfolio.com)
