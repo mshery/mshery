@@ -1,9 +1,13 @@
 # Hi there, I'm Shahroz Ijaz 👋
+A Passionate Mobile / Web APP & AI from Pakistan
 
 🚀 **Senior Software Engineer | MERN Stack Specialist**  
 💡 Passionate about building scalable web applications & modern UI/UX.  
 🔍 Exploring new technologies and keeping up with industry trends.  
-📫 Reach me at: [Your Email] | [Your LinkedIn]  
+📫 Reach me at: shahrozofficial115@gmail.com  
+
+🌱 I’m currently learning Generative AI, Node JS, Mongo DB, Express JS  
+💬 Ask me about Android, iOS, React Native, Flutter  
 
 ---
 
@@ -17,6 +21,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophy
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
 
 ---
 
