@@ -1,7 +1,7 @@
 # Hi there, I'm Shahroz Ijaz 👋
 A Passionate Mobile / Web APP & AI from Pakistan
 
-🚀 **Senior Software Engineer | MERN Stack Specialist**  
+🚀 **Senior Software Engineer | MERN Stack Specialis | Tech Lead t**  
 💡 Passionate about building scalable web applications & modern UI/UX.  
 🔍 Exploring new technologies and keeping up with industry trends.  
 📫 Reach me at: shahrozofficial115@gmail.com  
