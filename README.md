@@ -1,13 +1,18 @@
 # Hi there, I'm Shahroz Ijaz 👋
+
 A Passionate Mobile / Web APP & AI from Pakistan
+
 🚀 **Full Stack Senior Software Engineer | Team Lead | MERN Stack Specialist**  
 💡 Passionate about building scalable web applications & modern UI/UX.  
 🔍 Exploring new technologies and keeping up with industry trends.  
 📫 Reach me at: shahrozofficial115@gmail.com  
 🌱 I’m currently learning Generative AI, Node JS, Mongo DB, Express JS, PHP, Laravel  
 💬 Ask me about Android, iOS, React Native, Flutter, PHP, Laravel  
+
 ---
+
 ## 🚀 Technologies & Tools
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -18,13 +23,22 @@ A Passionate Mobile / Web APP & AI from Pakistan
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
+
 ## 🏆 GitHub Trophy
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
+
 ---
+
 ## 📊 GitHub Stats
+
 ![Shahroz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+
 ---
+
 ## 📢 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahroz-ijaz-b33669137/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://your-portfolio.com)
