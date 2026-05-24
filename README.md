@@ -24,21 +24,12 @@ A Passionate Mobile / Web APP & AI from Pakistan
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
 ## 🏆 GitHub Trophy
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
-
 ---
-
 ## 📊 GitHub Stats
-
 ![Shahroz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-
 ---
-
 ## 📢 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahroz-ijaz-b33669137/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://your-portfolio.com)
